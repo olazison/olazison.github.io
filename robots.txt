@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olazison.github.io/sitemap
+Sitemap: https://olazison.github.io/app/sitemap
+Sitemap: https://olazison.github.io/assets/sitemap
+Sitemap: https://olazison.github.io/css/sitemap
+Sitemap: https://olazison.github.io/includes/sitemap
+Sitemap: https://olazison.github.io/item/sitemap
+Sitemap: https://olazison.github.io/src/sitemap
